@@ -1,0 +1,11 @@
+World:
+  Name: ExampleWorld
+  Border: true
+RandomTeleportRadius:
+  Max: 30
+  Min: 20
+SafeAreaTimer: 45
+Whitelist:
+  - ExamplePlayer
+Blacklist:
+  - ExamplePlayer

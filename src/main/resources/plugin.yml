@@ -1,0 +1,10 @@
+name: PikaThePurge
+version: 1.0
+main: xyz.pikadev.PikaThePurge
+api-version: 1.16
+authors: [ Pikadev ]
+description: Pikadev Tarafından Tasarlanmış Bir Eklentidir.
+website: pikadev.xyz
+commands:
+  ptp:
+    description: Ana Komut
